@@ -1,3 +1,3 @@
 # HelloWorld
-This is my first repository<br>
+This is my first Git Repository<br>
 ~SaraKulsum
